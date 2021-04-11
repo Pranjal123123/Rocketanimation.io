@@ -1,4 +1,4 @@
-# Rocketannimation.io
+# Rocketanimation.io
 1)A simple animation of rocket is created that can move fron top to bottom.
 	 						
 2)U can use my animation either copying json file or directly from Lottieflies.
